@@ -21,6 +21,7 @@
   * [Emoji](flavours/github/emoji.md)
   * [Extras](flavours/github/extras.md)
 * [cheatsheets](cheatsheets/README.md)
- * [GitHub Cheatsheets](cheatsheets/github.md)
+ * [Basic Syntax Cheatsheet](cheatsheets/basic-syntax-cheatsheet.md)
+ * [GitHub Cheatsheet](cheatsheets/github.md)
  * [Emoji Cheatsheet](cheatsheets/emoji.md)
 
