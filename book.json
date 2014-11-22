@@ -3,3 +3,27 @@
         "quizzes"
     ]
 }
+{
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+            // Configuration for autocover
+               {
+    "title": "Mastering Markdown",
+    "author": "Katie Ball",
+    "font": {
+        "size": null,
+        "family": "Impact",
+        "color": '#292929'
+    },
+    "size": {
+        "w": 1800,
+        "h": 2360
+    },
+    "background": {
+        "color": '#f7f7f7'
+    }
+}
+        }
+    }
+}
