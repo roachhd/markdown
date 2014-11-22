@@ -9,4 +9,4 @@
 * [Flavours](flavours/README.md)
  * [GitHub](flavours/github/README.md)
  * [GitHub Quick Reference](flavours/github/quick-ref.md)
-
+* [Cheatsheet](cheatsheet/README.md)
