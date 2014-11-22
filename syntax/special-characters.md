@@ -1,5 +1,5 @@
 
-<h3 id="autoescape">Automatic Escaping for Special Characters</h3>
+# Automatic Escaping for Special Characters
 
 In HTML, there are two characters that demand special treatment: `<`
 and `&`. Left angle brackets are used to start tags; ampersands are
@@ -38,7 +38,7 @@ Markdown will translate it to:
 
     AT&amp;T
 
-Similarly, because Markdown supports [inline HTML](#html), if you use
+Similarly, because Markdown supports [inline HTML](syntax/inline-html.md), if you use
 angle brackets as delimiters for HTML tags, Markdown will treat them as
 such. But if you write:
 
