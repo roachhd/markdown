@@ -104,4 +104,14 @@ You can include literal backticks
 like `` `this` ``.
 ```
 
+######Preformatted Code Blocks
+```
+Indent every line of a code block by at least 4 spaces or 1 tab.
+This is a normal paragraph.
+
+    This is a preformatted
+    code block.
+```
+
+
 
