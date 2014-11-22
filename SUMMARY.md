@@ -2,6 +2,7 @@
 
 * [About Markdown](about/README.md)
  * [Introduction](about/introduction.md)
+ * [File Extensions](about/file-extensions.md)
 * [Syntax](syntax/README.md)
  * [Anchors](syntax/anchors.md)
  * [Block-elements](syntax/block-elements.md)
@@ -15,10 +16,11 @@
  * [Tables](syntax/tables.md)
  * [Titles](syntax/titles.md)
 * [Flavours](flavours/README.md)
- * [File Extensions](flavours/file-extensions.md)
   * [GitHub](flavours/github/README.md)
   * [Writing on GitHub](flavours/github/writing-on-github.md)
   * [Emoji](flavours/github/emoji.md)
   * [Extras](flavours/github/extras.md)
 * [cheatsheets](cheatsheets/README.md)
  * [GitHub Cheatsheets](cheatsheets/github.md)
+ * [Emoji Cheatsheet](cheatsheets/emoji.md)
+
