@@ -7,6 +7,12 @@ Markdown is a plain text formatting syntax designed so that it can optionally be
 
 In this book, you'll learn how to write document using the markdown syntax.
 
+<!-- for 16px icons -->
+<span class="octicon octicon-markdown"></span>
+
+<!-- for 32px icons -->
+<span class="mega-octicon octicon-markdown"></span>
+
 [![Figure 1](./assets/preview.png)](./assets/preview.png)
 
 Figure 1: Example of markdown with associated output document on the right.
