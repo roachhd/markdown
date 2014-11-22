@@ -1,12 +1,12 @@
 #Syntax Cheatsheet:
 
-#####Phrase Emphasis
+######Phrase Emphasis
 ```
 *italic*   **bold**
 _italic_   __bold__
 ```
 
-#####Links
+######Links
 Inline:
 ```
 An [example](http://url.com/ "Title")
@@ -81,3 +81,27 @@ You can nest them:
     3. burper
 *   Cunning
 ```
+
+######Blockquotes
+```
+> Email-style angle brackets
+> are used for blockquotes.
+
+> > And, they can be nested.
+
+> #### Headers in blockquotes
+> 
+> * You can quote a list.
+> * Etc.
+```
+
+######Code Spans
+```
+`<code>` spans are delimited
+by backticks.
+
+You can include literal backticks
+like `` `this` ``.
+```
+
+
