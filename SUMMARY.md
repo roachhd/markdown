@@ -7,6 +7,6 @@
 * [Code Blocks](syntax/code.md)
 * [Tables](syntax/tables.md)
 * [Flavours](flavours/README.md)
- * [GitHub](github/README.md)
- * [GitHub Quick Reference](github/quick-ref.md)
+ * [GitHub](flavours/github/README.md)
+ * [GitHub Quick Reference](flavours/github/quick-ref.md)
 
