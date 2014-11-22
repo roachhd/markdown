@@ -1,4 +1,4 @@
-# Emojis
+# Emoji
 
 Depending on where you are writing you markdown you may be able to use emojis. For a full list see the [Emoji Cheatsheet](cheatsheets/emoji.md)
 
