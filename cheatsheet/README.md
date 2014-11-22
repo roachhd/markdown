@@ -34,4 +34,22 @@ Reference-style:
 [id]: /url/to/img.jpg "Title"
 ```
 
+######Headers
+
+Setext-style:
+Header 1
+========
+
+Header 2
+--------
+
+
+atx-style (closing #'s are optional):
+# Header 1 #
+
+## Header 2 ##
+
+###### Header 6
+
+
 
