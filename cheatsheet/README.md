@@ -20,4 +20,18 @@ else in the doc, define the link:
   [id]: http://example.com/  "Title"
 ```
 
+######Images
+
+Inline (titles are optional):
+```
+![alt text](/path/img.jpg "Title")
+```
+
+Reference-style:
+```
+![alt text][id]
+
+[id]: /url/to/img.jpg "Title"
+```
+
 
