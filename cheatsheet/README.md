@@ -35,21 +35,22 @@ Reference-style:
 ```
 
 ######Headers
-
 Setext-style:
+```
 Header 1
 ========
 
 Header 2
 --------
-
+```
 
 atx-style (closing #'s are optional):
+```
 # Header 1 #
 
 ## Header 2 ##
 
 ###### Header 6
-
+```
 
 
