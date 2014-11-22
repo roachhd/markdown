@@ -1,6 +1,7 @@
 # Summary
 
 * [About Markdown](about/README.md)
+*[Syntax](syntax/README.md)
  * [Anchors](syntax/anchors.md)
  * [Block-elements](syntax/block-elements.md)
  * [Blockquotes](syntax/blockquotes.md)
