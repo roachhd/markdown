@@ -15,6 +15,7 @@
  * [Tables](syntax/tables.md)
  * [Titles](syntax/titles.md)
 * [Flavours](flavours/README.md)
+ * [File Extensions](flavours/file-extensions.md)
 * [cheatsheets](cheatsheets/README.md)
  * [GitHub Cheatsheet](cheatsheets/github.md)
  * [Emoji](cheatsheets/emoji.md)
