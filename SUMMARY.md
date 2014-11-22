@@ -11,6 +11,7 @@
  * [Lists](syntax/lists.md)
  * [Images](syntax/images.md)
  * [Code Blocks](syntax/code.md)
+ * [Special Character](syntax/special-characters.md)
  * [Tables](syntax/tables.md)
  * [Titles](syntax/titles.md)
 
