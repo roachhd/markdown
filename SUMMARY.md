@@ -1,5 +1,4 @@
 # Summary
-
 * [About Markdown](about/README.md)
  * [Introduction](about/introduction.md)
  * [File Extensions](about/file-extensions.md)
