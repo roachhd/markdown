@@ -7,7 +7,7 @@
 * [Block-elements](syntax/block-elements.md)
 * [Blockquotes](syntax/blockquotes.md)
 * [Code Blocks](syntax/code.md)
-* [Images](syntax/horizontal-rule.md)
+* [Horizontal Rules](syntax/horizontal-rule.md)
 * [Images](syntax/images.md)
 * [Links](syntax/links.md)
 * [Lists](syntax/lists.md)
