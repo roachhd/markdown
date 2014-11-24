@@ -1,4 +1,4 @@
-Learn Markdown
+Master Markdown
 ========
 
 You may have heard about Markdown, if you have it's a good thing.
